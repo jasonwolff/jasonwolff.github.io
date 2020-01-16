@@ -1,0 +1,31 @@
+[
+  {
+    "type": "banner",
+    "title": "Jason Wolff",
+    "subtitle": "Vocalist. Actor. Musician.",
+    "description": "Sing, act, dance...a true triple threat.  A natural on stage, Jason brings passion and professionalism to every performance.  Adaptive and creative, each role displays his charm and eloquence.",
+    "image": { "filename": "jason-close.jpg" },
+    "actions": {
+      "orientation": "horizontal",
+      "buttons": [{ "text": "Contact", "link": "#contact", "emphasis": true }]
+    }
+  },
+  {
+    "type": "spotlight",
+    "title": "Spotlight 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": { "filename": "jason-2.jpg" },
+    "flip": true
+  },
+  {
+    "type": "spotlight",
+    "title": "Spotlight 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "image": { "filename": "jason-3.2.jpg" }
+  },
+  {
+    "type": "contact",
+    "formspree": "https://formspree.io/xjvggoqk",
+    "dark": true
+  }
+]
